@@ -56,3 +56,9 @@ step:9------- src kai under folder create krne k liye we use this commands cd sr
 
 step:10-----  folder create karne kai liye we use  mkdir command  or aage ke command mai files ka naam hoga
 use command ----> mkdir controllers db middlewares models routes utils
+
+
+step:11----- insall prettier
+command(npm i -D prettier) and also add file .prettierrc
+
+step:12----- also add file .prettieignore (jo files hume add ne krne)
